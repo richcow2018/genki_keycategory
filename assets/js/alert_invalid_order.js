@@ -1,0 +1,1 @@
+alert(wrong_msg);

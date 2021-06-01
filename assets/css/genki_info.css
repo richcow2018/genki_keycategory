@@ -1,0 +1,26 @@
+#genki-info {
+    margin-bottom: 15px; }
+    #genki-info .row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; }
+
+#logo-col {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+    #logo-col img.genki-logo {
+        width: 65%; }
+    #logo-col img.module-logo {
+        width: 30%; }
+
+#info-col ul {
+    list-style-type: none;
+    padding-left: 0; }
+    #info-col ul>li {
+        font-size: 14px; }
+    #info-col .info-icon {
+        display: inline-block;
+        width: 16px;
+        text-align: center;
+        margin-right: 5px; }
